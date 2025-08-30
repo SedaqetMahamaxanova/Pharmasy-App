@@ -1,5 +1,5 @@
 # Test Scenarios for FR2 – İstifadəçilər yaratmaq (Depo Meneceri / Filial İşçisi)
-
+   **BRD Versiyası:** 1.1
 ---
 
 ## FR2_TS1 – Depo Meneceri istifadəçisi yaratmaq
