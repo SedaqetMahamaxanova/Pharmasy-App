@@ -1,5 +1,5 @@
 # Test Scenarios for FR3 – Dərman və Təchizatçı əlavə etmək və idarə etmək (Depo Meneceri)
-
+  **BRD Versiyası:** 1.1
 ---
 
 ## FR3_TS1 – Yeni dərman əlavə etmək
